@@ -7,10 +7,6 @@ public class App
 	Scanner ui = new Scanner(System.in);
         System.out.println( "Hello World!" );
 	System.out.println("Life is Good");
-	
-	    int a;
-	    System.out.priintln("Enter any int");
-	    a=ui.nextInt();
-	    System.out.println("the num is "+a);
+	System.out.println("Changes refelcted in jenkins");
     }
 }
